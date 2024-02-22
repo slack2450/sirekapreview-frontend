@@ -1,0 +1,49 @@
+{
+    "home": {
+        "title": "Review Crowdsourcing SIREKAP",
+        "disclaimer": "Data ini merupakan verifikasi <sirekap>data SIREKAP</sirekap> yang dilakukan lewat crowdsourcing. Data ini tidak resmi dan dapat mengandung kesalahan. Form C berstatus terverifikasi apabila direview banyak orang dengan hasil yang konsisten.",
+        "checked": "TPS telah terverifikasi",
+        "contribute": "Review Form C TPS di sini",
+        "verified": "Lihat Form C TPS yang telah terverifikasi"
+    },
+    "languages": {
+        "english": "🇺🇸 English",
+        "indonesian": "🇮🇩 Indonesian"
+    },
+    "navbar": {
+        "title": "SIREKAP Review",
+        "home": "Home",
+        "contribute": "Review Form C",
+        "verified": "Form C Terverifikasi"
+    },
+    "contribute": {
+        "title": "Review Form C",
+        "info": "Berikut adalah Form C yang memerlukan verifikasi ulang. Anda dapat berkontribusi dengan mengklik salah satu gambar Form C.",
+        "scroll-help": "Mohon cantumkan jumlah suara untuk tiap paslon sesuai dengan data yang tertulis di gambar pada formulir di bawah.",
+        "submit": "Kirim",
+        "cancel": "Tutup",
+        "candidate": {
+            "one": "Anies-Muhaimin",
+            "two": "Prabowo-Gibran",
+            "three": "Ganjar-Mahfud"
+        },
+        "success": "Terima kasih! 🎉",
+        "no-votes": "Tidak ada suara.",
+        "captcha-failed": "Verifikasi Captcha gagal.",
+        "already-contributed": "Form C ini telah Anda review, terima kasih!",
+        "not-found": "Tidak ditemukan.",
+        "unknown-error": "Error tidak diketahui. Mohon diulang sesaat lagi."
+    },
+    "verified": {
+        "title": "Form C Terverifikasi",
+        "disclaimer": "Data ini merupakan verifikasi <sirekap>data SIREKAP</sirekap> yang dilakukan lewat crowdsourcing. Data ini tidak resmi dan dapat mengandung kesalahan. Form C berstatus terverifikasi apabila direview banyak orang dengan hasil yang konsisten.",
+        "scroll-help": "Data telah terverifikasi sebagai berikut:",
+        "candidate": {
+            "one": "Anies-Muhaimin",
+            "two": "Prabowo-Gibran",
+            "three": "Ganjar-Mahfud"
+        },
+        "close": "Tutup"
+    },
+    "footer": "Dibuat dengan ❤️ oleh <joss>Joss Bird</joss> & <raka>Raka Gunarto</raka>"
+}

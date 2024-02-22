@@ -1,0 +1,49 @@
+{
+    "home": {
+        "title": "Crowd sourced review of SIREKAP",
+        "disclaimer": "This is a crowd sourced review of <sirekap>SIREKAP data</sirekap>. The data is not officially verified and may contain inaccuracies. A polling station data is verified and used in the count below if it reaches a certain consensus.",
+        "checked": "Of Form C's have been checked",
+        "contribute": "Review Form C TPS Here",
+        "verified": "View Verified Form C Data"
+    },
+    "languages": {
+        "english": "🇺🇸 English",
+        "indonesian": "🇮🇩 Indonesian"
+    },
+    "navbar": {
+        "title": "SIREKAP Review",
+        "home": "Home",
+        "contribute": "Contribute",
+        "verified": "Verified"
+    },
+    "contribute": {
+        "title": "Review Form C",
+        "info": "Review the data and help us improve the accuracy of the information.",
+        "scroll-help": "Scroll down to see submission boxes for each candidate.",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "candidate": {
+            "one": "Anies",
+            "two": "Prabowo",
+            "three": "Ganjar"
+        },
+        "success": "Thank you for your submission! 🎉",
+        "no-votes": "Please enter a number of votes.",
+        "captcha-failed": "Captcha failed. Please try again.",
+        "already-contributed": "You have already contributed. Thank you!",
+        "not-found": "Not found",
+        "unknown-error": "Unknown error. Please try again."
+    },
+    "verified": {
+        "title": "Verified Form C Data",
+        "disclaimer": "This is community verified data. The data is not officially verified and may contain inaccuricies.",
+        "scroll-help": "Scroll down to see data for each candidate.",
+        "candidate": {
+            "one": "Anies",
+            "two": "Prabowo",
+            "three": "Ganjar"
+        },
+        "close": "Close"
+    },
+    "footer": "Made with ❤️ by <joss>Joss Bird</joss> & <raka>Raka Gunarto</raka>"
+}
